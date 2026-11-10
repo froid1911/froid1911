@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="190" viewBox="0 0 330 190" role="img" aria-label="Powerhouse">
+<rect x="4.5" y="4.5" width="321" height="181" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="42" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#f0f0f0" text-anchor="start">Powerhouse</text>
+<text x="306" y="42" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8b949e" text-anchor="end">2023 – today</text>
+<line x1="24" y1="58" x2="306" y2="58" stroke="#30363d"/>
+<text x="24" y="86" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="400" fill="#f0f0f0" text-anchor="start">Core team, Sky ecosystem.</text>
+<text x="24" y="108" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="400" fill="#f0f0f0" text-anchor="start">Document engine, Switchboard,</text>
+<text x="24" y="130" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="400" fill="#f0f0f0" text-anchor="start">Vetra Cloud, private doc AI.</text>
+<text x="24" y="166" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8b949e" text-anchor="start">TypeScript · Rust · k3s</text>
+</svg>

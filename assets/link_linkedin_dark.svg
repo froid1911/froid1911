@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="56" viewBox="0 0 330 56" role="img" aria-label="linkedin">
+<rect x="4.5" y="4.5" width="321" height="47" rx="8" fill="#0d1117" stroke="#f0f0f0"/>
+<text x="24" y="36" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="400" fill="#8b949e" text-anchor="start">&gt;</text>
+<text x="48" y="36" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="600" fill="#f0f0f0" text-anchor="start">linkedin</text>
+<text x="306" y="36" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="400" fill="#8b949e" text-anchor="end">↗</text>
+</svg>

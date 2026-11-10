@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="56" viewBox="0 0 330 56" role="img" aria-label="email">
+<rect x="4.5" y="4.5" width="321" height="47" rx="8" fill="#ffffff" stroke="#000000"/>
+<text x="24" y="36" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="400" fill="#6b6b6b" text-anchor="start">&gt;</text>
+<text x="48" y="36" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="600" fill="#000000" text-anchor="start">email</text>
+<text x="306" y="36" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="400" fill="#6b6b6b" text-anchor="end">↗</text>
+</svg>
