@@ -19,8 +19,8 @@ MONO = "'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospa
 HEADER_LINES = [
     ("prompt", "froid@web3.berlin:~$ whoami"),
     ("title", "Frank"),
-    ("body", "Founder of web3.berlin. Blockchain and AI systems that run in production."),
-    ("body", "Peer-to-peer since Napster. Writing software professionally since 2010."),
+    ("body", "Coding agents in herdr, steered from my phone. Models on 4x RTX 3090."),
+    ("body", "Document engines at Powerhouse, subgraphs for Aavegotchi, Ethereum since 2017."),
     ("blank", ""),
     ("prompt", "froid@web3.berlin:~$ ls ~/now"),
     ("body", "powerhouse/   herdr+whistle/   local-ai-stack/   cortical-mirror/"),
