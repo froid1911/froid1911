@@ -37,7 +37,7 @@ LINKS = [
 
 CARDS = [
     ("whistle", "herdr + whistle", ["Android remote for herdr", "agent sessions. Approve,", "prompt, read agents as chat."], "Kotlin · Go"),
-    ("local-ai", "local-ai-stack", ["3x RTX 3090, own C++/CUDA", "engine, vLLM, llama.cpp.", "No cloud API required."], "Shell · CUDA"),
+    ("local-ai", "local-ai-stack", ["4x RTX 3090, own C++/CUDA", "engine, vLLM, llama.cpp.", "No cloud API required."], "Shell · CUDA"),
     ("cortical", "cortical-mirror", ["A virtual cortex that learns", "to see with local rules.", "Live webcam demo."], "Python"),
 ]
 
