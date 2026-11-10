@@ -1,7 +1,7 @@
 <a href="https://web3.berlin">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/froid1911/froid1911/main/assets/header_dark.svg">
-    <img alt="Frank — founder of web3.berlin. Blockchain and AI systems that run in production." src="https://raw.githubusercontent.com/froid1911/froid1911/main/assets/header_light.svg">
+    <img alt="Frank: coding agents in herdr, local models on 4x RTX 3090, document engines at Powerhouse, subgraphs for Aavegotchi." src="https://raw.githubusercontent.com/froid1911/froid1911/main/assets/header_light.svg">
   </picture>
 </a>
 
