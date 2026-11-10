@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-label="Frank — founder of web3.berlin">
+<rect x="0.5" y="0.5" width="999" height="349" rx="10" fill="#0d1117" stroke="#30363d"/>
+<line x1="0" y1="40" x2="1000" y2="40" stroke="#30363d"/>
+<circle cx="24" cy="20" r="5" fill="none" stroke="#8b949e"/>
+<circle cx="42" cy="20" r="5" fill="none" stroke="#8b949e"/>
+<circle cx="60" cy="20" r="5" fill="none" stroke="#8b949e"/>
+<text x="500.0" y="25" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#8b949e" text-anchor="middle">froid1911 — bash</text>
+<text x="32" y="82" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="400" fill="#8b949e" text-anchor="start">froid@web3.berlin:~$ whoami</text>
+<text x="32" y="126" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="44" font-weight="700" fill="#f0f0f0" text-anchor="start">Frank</text>
+<text x="32" y="164" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="400" fill="#f0f0f0" text-anchor="start">Founder of web3.berlin. Blockchain and AI systems that run in production.</text>
+<text x="32" y="190" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="400" fill="#f0f0f0" text-anchor="start">Peer-to-peer since Napster. Writing software professionally since 2010.</text>
+<text x="32" y="226" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="400" fill="#8b949e" text-anchor="start">froid@web3.berlin:~$ ls ~/now</text>
+<text x="32" y="264" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="400" fill="#f0f0f0" text-anchor="start">powerhouse/   herdr+whistle/   local-ai-stack/   cortical-mirror/</text>
+<rect x="32" y="298" width="89.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="76.6" y="316" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#f0f0f0" text-anchor="middle">ethereum</text>
+<rect x="131.2" y="298" width="97.60000000000001" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="180.0" y="316" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#f0f0f0" text-anchor="middle">subgraphs</text>
+<rect x="238.8" y="298" width="47.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="262.40000000000003" y="316" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#f0f0f0" text-anchor="middle">p2p</text>
+<rect x="296.0" y="298" width="89.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="340.6" y="316" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#f0f0f0" text-anchor="middle">local ai</text>
+<rect x="395.2" y="298" width="72.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="431.4" y="316" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#f0f0f0" text-anchor="middle">agents</text>
+<rect x="477.6" y="298" width="47.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="501.20000000000005" y="316" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#f0f0f0" text-anchor="middle">k3s</text>
+<rect x="534.8000000000001" y="298" width="72.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="571.0000000000001" y="316" font-family="'Noto Sans Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#f0f0f0" text-anchor="middle">berlin</text>
+<rect x="617.2" y="301" width="10" height="20" fill="#f0f0f0"/>
+</svg>
